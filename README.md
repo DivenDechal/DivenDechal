@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,40:0A2E52,80:0E6BA8,100:38BDF8&height=220&section=header&text=Diven%20Dechal%20Jatiputra&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20%26%20Cybersecurity&descAlignY=55&descAlign=50&descColor=bae6fd"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,40:0A2E52,80:0E6BA8,100:38BDF8&height=220&section=header&text=Diven%20Dechal%20Jatiputra&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20%26%20Cybersecurity&descAlignY=55&descAlign=50&descColor=bae6fd"/> -->
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=640&lines=AI%2FML+%26+Cybersecurity+Enthusiast+%F0%9F%A4%96;Exchange+Student+%40+NTUST%2C+Taiwan+%F0%9F%87%B9%F0%9F%87%BC;Building+impactful+projects+one+commit+at+a+time+%F0%9F%9A%80;Always+learning+%7C+Always+exploring+%F0%9F%94%AD)](https://git.io/typing-svg)
@@ -33,14 +33,14 @@
 
 <p align="center">
   <a href="https://github.com/divendechal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divendechal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divendechal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     &nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divendechal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divendechal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> -->
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divendechal&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <!-- <img src= alt="GitHub Streak Stats"/> -->
 </p>
 
 <p align="center">
